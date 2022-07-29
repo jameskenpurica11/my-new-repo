@@ -1,2 +1,2 @@
 # my-new-repo
-new repo 
+welcome to my first blank repository
